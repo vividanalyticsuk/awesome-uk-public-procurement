@@ -23,6 +23,7 @@ A curated list of official UK public-procurement portals, Open Contracting Data 
 - [Sell2Wales](https://www.sell2wales.gov.wales/) - Official Welsh Government procurement portal publishing monthly OCDS notice exports.
 - [eTendersNI](https://etendersni.gov.uk/) - Official Northern Ireland public-sector e-tendering portal.
 - [Crown Commercial Service (CCS)](https://www.crowncommercial.gov.uk/) - UK Government central buying organisation operating major public-sector frameworks (G-Cloud, Digital Outcomes, Technology Products).
+- [UK Tenders Scraper](https://apify.com/publicrecords/uk-find-a-tender-scraper) - UK government tenders from Find a Tender and Contracts Finder: buyer, value, deadline (Apify Actor, API + MCP).
 
 ## Open Contracting Standards & Open-Source Tooling
 
